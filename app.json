@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "rentHouseApp",
+    "slug": "rentHouseApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
